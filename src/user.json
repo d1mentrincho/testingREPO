@@ -1,0 +1,11 @@
+{
+    "name": "Dmytro",
+    "hobbies": ["Reading", "Snowboard", "PC Games"],
+    "workExp": [8, "FullStack Developer"],
+    "email": "myemail@gmail.com",
+    "skills": {
+        "html": 4,
+        "css": 4,
+        "js": 4.5
+    }
+}
